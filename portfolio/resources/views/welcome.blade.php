@@ -9,15 +9,15 @@
 	<meta name="author" content="willy wonka" />
     <title>Michael Christianto</title>
   <!--favicon-img--> 
-   <link rel="icon" type="image/png" href="images/favicon.png">
+   <link rel="icon" type="image/png" href="/assets/images/favicon.png">
    <!--favicon-img-->
    <!--main css file should not be removed -->
-    <link rel="stylesheet" href="/build/assets/css/index.css">
-    <link rel="stylesheet" href="/build/assets/css/breaker-style-four.css">
-    <link rel="stylesheet" href="/build/assets/css/breaker-style-three.css">
-    <link rel="stylesheet" href="/build/assets/css/color-red.css">
-    <link rel="stylesheet" href="/build/assets/css/breaker-style-one.css">
-    <link rel="stylesheet" href="/build/assets/css/breaker-style-two.css">
+    <link rel="stylesheet" href="/assets/css/index.css">
+    <link rel="stylesheet" href="/assets/css/breaker-style-four.css">
+    <link rel="stylesheet" href="/assets/css/breaker-style-three.css">
+    <link rel="stylesheet" href="/assets/css/color-red.css">
+    <link rel="stylesheet" href="/assets/css/breaker-style-one.css">
+    <link rel="stylesheet" href="/assets/css/breaker-style-two.css">
 
 
     <!--main css file-->
@@ -44,7 +44,7 @@
         <!--Navigator-fullscreen-->
         <div id="navigation-content">
             <div class="logo">
-                <img src="images/willy wonka logo.png" alt="logo">
+                <img src="/assets/images/willy wonka logo.png" alt="logo">
             </div>
             <div class="navigation-close">
                 <span class="close-first"></span>
@@ -62,7 +62,7 @@
           <!--Home Page-->
         <!--Menubar-->
         <div id="navigation-bar">
-            <img src="images/willy wonka logo.png" alt="logo">
+            <img src="/assets/images/willy wonka logo.png" alt="logo">
             <div class="menubar">
                 <span class="first-span"></span>
                 <span class="second-span"></span>
@@ -75,10 +75,10 @@
             <div id="particles"></div>
               <!--Social Media Links-->
             <div class="social-media-links">
-               <a href="#"><img src="images/instagram logo.png" class="social-media" alt="instagram-logo"></a><!--Your instagram homepage link inser in place of "#"-->
-                <a href="#"><img src="images/facebook logo.png" class="social-media" alt="facebook-logo"></a>
-                <a href="#"><img src="images/linkedin logo.png" class="social-media" alt="linkedin-logo"></a>
-                <a href="#"><img src="images/twitter logo.png" class="social-media" alt="twitter-logo"></a>
+               <a href="#"><img src="/assets/images/instagram logo.png" class="social-media" alt="instagram-logo"></a><!--Your instagram homepage link inser in place of "#"-->
+                <a href="#"><img src="/assets/images/facebook logo.png" class="social-media" alt="facebook-logo"></a>
+                <a href="#"><img src="/assets/images/linkedin logo.png" class="social-media" alt="linkedin-logo"></a>
+                <a href="#"><img src="/assets/images/twitter logo.png" class="social-media" alt="twitter-logo"></a>
 
             </div>
             <!--Social Media Links end-->
@@ -91,14 +91,14 @@
             <span class="slash">|</span>
         </div>
                     <div class="contact">
-                <a href="Mailto:#"><img src="images/mail.png" alt="email-pic" class="contactpic"></a><!--Your email Id write in place of "#"-->
-                <a href="Tel:#"><img src="images/call.png" alt="phone-pic" class="contactpic"></a><!--Your telephone number Id write in place of "#"-->
+                <a href="Mailto:#"><img src="/assets/images/mail.png" alt="email-pic" class="contactpic"></a><!--Your email Id write in place of "#"-->
+                <a href="Tel:#"><img src="/assets/images/call.png" alt="phone-pic" class="contactpic"></a><!--Your telephone number Id write in place of "#"-->
                     </div>    
             </div>
             </div>
             <!--header image-->
             <div class="header-image">
-                <img src="images/Michael_Kamen_1-removebg1.png" alt="Your Image" style="object-fit: contain">
+                <img src="/assets/images/Michael_Kamen_1-removebg1.png" alt="Your Image" style="object-fit: contain">
             </div>
             <!--header image end-->
         </div>
@@ -128,7 +128,7 @@
             </div>
             <!--about picture-->
             <div class="about-img">
-                <img src="images/foto saya.jpg" alt="Your Image" style="object-fit: contain">
+                <img src="/assets/images/foto saya.jpg" alt="Your Image" style="object-fit: contain">
             </div>
             </div>
     
@@ -144,7 +144,7 @@
                     <div class="services-content">
                            <div class="service-one service wow">
                                <div class="service-img">
-                               <img src="images/coding.png" alt="service-one">
+                               <img src="/assets/images/coding.png" alt="service-one">
                                </div>
                                <div class="service-description">
                                 <h2>Coding</h2>
@@ -153,7 +153,7 @@
                            </div>
                            <div class="service-two service wow">
                                <div class="service-img">
-                               <img src="images/instagram.png" alt="service-two">
+                               <img src="/assets/images/instagram.png" alt="service-two">
                                </div>
                                <div class="service-description">
                                 <h2>Social Media</h2>
@@ -162,7 +162,7 @@
                            </div>
                            <div class="service-three service wow">
                             <div class="service-img">
-                               <img src="images/gear.png" alt="service-three">
+                               <img src="/assets/images/gear.png" alt="service-three">
                             </div>
                             <div class="service-description">
                                 <h2>IoT Engineer</h2>
@@ -243,7 +243,7 @@
     <!--copyright-section You Can Remove After Downloading-->
             <div class="footer">
              <div class="footer-text">
-                 <img src="./images/copyright.png" alt="copyright-img" class="images" height="14px"> Willy Wonkas
+                 <img src="/assets/images/copyright.png" alt="copyright-img" class="images" height="14px"> Willy Wonkas
              </div>
             </div>
     <!--copyright-section-->
@@ -268,7 +268,7 @@
                  </div>
                  <div class="portfolio portfolio-second">
                     <div class="portfolio-image">
-                        <img src="images/CRC 2024.jpg" alt="CRC 2024">
+                        <img src="/assets/images/CRC 2024.jpg" alt="CRC 2024">
                     </div>
                     <div class="portfolio-text">
                         <h2>Celebes Robotic Contest</h2>
@@ -279,7 +279,7 @@
              
                 <div class="portfolio portfolio-third">
                     <div class="portfolio-image">
-                        <img src="images/PNB 2024.jpg" alt="PNB 2024">
+                        <img src="/assets/images/PNB 2024.jpg" alt="PNB 2024">
                     </div>
                     <div class="portfolio-text">
                         <h2>PNB ITC#16 x ECO 2024</h2>
@@ -289,7 +289,7 @@
                 </div>
                 <div class="portfolio portfolio-fourth">
                     <div class=" portfolio-image">
-                        <img src="images/AIoT Hidroponik.jpg" alt="AIoT Hidroponik">
+                        <img src="/assets/images/AIoT Hidroponik.jpg" alt="AIoT Hidroponik">
                     </div>
                     <div class="portfolio-text">
                         <h2>AIoT Hidroponik</h2>
@@ -301,7 +301,7 @@
                     <!--copyright-section You Can Remove After Downloading-->
             <div class="footer">
                 <div class="footer-text">
-                    <img src="./images/copyright.png" alt="copyright-img" class="images" height="14px"> Willy Wonkas
+                    <img src="/assets/images/copyright.png" alt="copyright-img" class="images" height="14px"> Willy Wonkas
                 </div>
                </div>
        <!--copyright-section-->
@@ -317,7 +317,7 @@
                  <div class="blogs">
                      <a href="#">
                      <div class="img">
-                        <img src="images/DevFest 2024.jpg" alt="DevFest 2024">
+                        <img src="/assets/images/DevFest 2024.jpg" alt="DevFest 2024">
                         <div class="blog-date">9 Des,23</div>
                      </div>
                      <div class="blog-text">
@@ -328,7 +328,7 @@
                  <div class="blogs">
                     <a href="#">
                     <div class="img">
-                        <img src="images/NPLC 2024.jpg" alt="NPLC 2024">
+                        <img src="/assets/images/NPLC 2024.jpg" alt="NPLC 2024">
                         <div class="blog-date">16 Jan,20</div>
                     </div>
                     <div class="blog-text">
@@ -339,7 +339,7 @@
                 <div class="blogs">
                     <a href="#">
                     <div class="img">
-                        <img src="images/IO Extend.jpg" alt="IO Extend 2024">
+                        <img src="/assets/images/IO Extend.jpg" alt="IO Extend 2024">
                         <div class="blog-date">20 Jul,24</div>
                     </div>
                     <div class="blog-text">
@@ -350,7 +350,7 @@
                 <div class="blogs">
                     <a href="#">
                     <div class="img">
-                        <img src="images/Hackathon 2024.jpg" alt="Hackathon 2024">
+                        <img src="/assets/images/Hackathon 2024.jpg" alt="Hackathon 2024">
                         <div class="blog-date">23-24 Jun,24</div>
                     </div>
                     <div class="blog-text">
@@ -361,7 +361,7 @@
                 <div class="blogs">
                     <a href="#">
                     <div class="img">
-                        <img src="images/foto saya.jpg" alt="Your Image" style="object-fit: contain">
+                        <img src="/assets/images/foto saya.jpg" alt="Your Image" style="object-fit: contain">
                         <div class="blog-date">12 Jun,24</div>
                     </div>
                     <div class="blog-text">
@@ -372,7 +372,7 @@
                 <div class="blogs">
                     <a href="#">
                     <div class="img">
-                        <img src="images/bootcamp 2024.jpg" alt="bootcamp 2024">
+                        <img src="/assets/images/bootcamp 2024.jpg" alt="bootcamp 2024">
                         <div class="blog-date">25 Oct,24</div>
                     </div>
                     <div class="blog-text">
@@ -384,7 +384,7 @@
                <!-- <!copyright-section You Can Remove After Downloading -->
                <div class="footer">
                 <div class="footer-text">
-                    <img src="./images/copyright.png" alt="copyright-img" class="images" height="14px"> Willy Wonkas
+                    <img src="/assets/images/copyright.png" alt="copyright-img" class="images" height="14px"> Willy Wonkas
                 </div>
                </div>
        <!--copyright-section-->
@@ -421,21 +421,21 @@
                 </div>
                 <div class="contact-info-content">
                 <div class="contect-info-content-line">
-                    <img src="./images/icon-name.png" class="icon" alt="name-icon">
+                    <img src="/assets/images/icon-name.png" class="icon" alt="name-icon">
                     <div class="contact-info-icon-text">
                         <h6>Name</h6>
                         <p>Michael Christianto</p>
                   </div>
                 </div>
                 <div class="contect-info-content-line">
-                  <img src="./images/icon-location.png" class="icon" alt="location-icon">
+                  <img src="/assets/images/icon-location.png" class="icon" alt="location-icon">
                   <div class="contact-info-icon-text">
                       <h6>Location</h6>
                       <p>Makassar, Indonesia</p>
                 </div>
               </div>
               <div class="contect-info-content-line">
-                  <img src="./images/icon-phone.png" class="icon" alt="phone-icon">
+                  <img src="/assets/images/icon-phone.png" class="icon" alt="phone-icon">
                   <div class="contact-info-icon-text">
                       <h6>Call</h6>
                       <p>082293955566</p>
@@ -443,7 +443,7 @@
               </div>
               
               <div class="contect-info-content-line">
-                  <img src="./images/icon-email.png" class="icon" alt="email-icon">
+                  <img src="/assets/images/icon-email.png" class="icon" alt="email-icon">
                   <div class="contact-info-icon-text">
                       <h6>Email</h6>
                       <p>mchristianto01@student.ciputra.ac.id</p>
@@ -456,7 +456,7 @@
                     <!--copyright-section You Can Remove After Downloading-->
                     <div class="footer">
                         <div class="footer-text">
-                            <img src="./images/copyright.png" alt="copyright-img" class="images" height="14px"> Willy Wonkas
+                            <img src="/assets/images/copyright.png" alt="copyright-img" class="images" height="14px"> Willy Wonkas
                         </div>
                        </div>
                <!--copyright-section-->
@@ -464,10 +464,10 @@
         <!--contact end-->
     </div>
     <!--all the divisions-->
-    <script src="/build/assets/js/jquery.min.js"></script>
-    <script src="/build/assets/js/index.js"></script>
-    <script src="/build/assets/js/particles.min.js"></script>
-    <script src="/build/assets/js/particles.js"></script>
+    <script src="/assets/js/jquery.min.js"></script>
+    <script src="/assets/js/index.js"></script>
+    <script src="/assets/js/particles.min.js"></script>
+    <script src="/assets/js/particles.js"></script>
 
 
 
