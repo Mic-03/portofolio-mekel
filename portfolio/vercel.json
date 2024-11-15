@@ -18,8 +18,8 @@
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "true",
-        "APP_URL": "https://my-portfolio-psi-lime.vercel.app",
-        "APP_KEY": "base64:j0NJinOqCkq8AMOTRuUCKs6xb/KaJnzJm0b2sZaoGSw=",
+        "APP_URL": "https://portofolio-mekel.vercel.app",
+        "APP_KEY": "base64:OAZzwGpD/xjq+3TQuB4koy43l2cj2kZkBsLqRTgNL1U=",
 
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
