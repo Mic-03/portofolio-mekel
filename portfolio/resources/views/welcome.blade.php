@@ -12,12 +12,12 @@
    <link rel="icon" type="image/png" href="images/favicon.png">
    <!--favicon-img-->
    <!--main css file should not be removed -->
-    <link rel="stylesheet" href="{{ asset('build/assets/css/index.css') }}">
-    <link rel="stylesheet" href="{{ asset('build/assets/css/breaker-style-four.css') }}">
-    <link rel="stylesheet" href="{{ asset('build/assets/css/breaker-style-three.css') }}">
-    <link rel="stylesheet" href="{{ asset('build/assets/css/color-red.css') }}">
-    <link rel="stylesheet" href="{{ asset('build/assets/css/breaker-style-one.css') }}">
-    <link rel="stylesheet" href="{{ asset('build/assets/css/breaker-style-two.css') }}">
+    <link rel="stylesheet" href="/build/assets/css/index.css">
+    <link rel="stylesheet" href="/build/assets/css/breaker-style-four.css">
+    <link rel="stylesheet" href="/build/assets/css/breaker-style-three.css">
+    <link rel="stylesheet" href="/build/assets/css/color-red.css">
+    <link rel="stylesheet" href="/build/assets/css/breaker-style-one.css">
+    <link rel="stylesheet" href="/build/assets/css/breaker-style-two.css">
 
 
     <!--main css file-->
@@ -464,10 +464,10 @@
         <!--contact end-->
     </div>
     <!--all the divisions-->
-    <script src="{{ asset('build/assets/js/jquery.min.js') }}"></script>
-    <script src="{{ asset('build/assets/js/index.js') }}"></script>
-    <script src="{{ asset('build/assets/js/particles.min.js') }}"></script>
-    <script src="{{ asset('build/assets/js/particles.js') }}"></script>
+    <script src="/build/assets/js/jquery.min.js"></script>
+    <script src="/build/assets/js/index.js"></script>
+    <script src="/build/assets/js/particles.min.js"></script>
+    <script src="/build/assets/js/particles.js"></script>
 
 
 
