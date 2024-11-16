@@ -98,7 +98,7 @@
             </div>
             <!--header image-->
             <div class="header-image">
-                <img src="/assets/images/Michael_Kamen_1-removebg1.png" alt="Your Image" style="object-fit: contain">
+                <!-- <img src="/assets/images/Michael_Kamen_1-removebg1.png" alt="Your Image" style="object-fit: contain"> -->
             </div>
             <!--header image end-->
         </div>
